@@ -1,7 +1,6 @@
 # Test
 This is a test. This is also my very first repository. 
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Test</title>
